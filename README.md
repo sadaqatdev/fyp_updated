@@ -1,7 +1,3 @@
-Here’s a clean, copy-paste README.md for your repo.
-
-⸻
-
 Cloud-Assisted Resource Allocation Using Machine Learning
 
 A small-scale, end-to-end Python system that learns to allocate cloud/edge tasks to worker nodes using machine learning, and compares it against a greedy baseline.
