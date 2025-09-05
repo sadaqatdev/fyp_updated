@@ -182,7 +182,3 @@ If you use this project in academic work, please cite this repository.
   url    = {https://github.com/sadaqatdev/fyp_updated}
 }
 
-
-⸻
-
-If you want, I can also add a minimal requirements.txt and a small plot script to summarize runs.
